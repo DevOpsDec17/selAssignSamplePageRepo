@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="newSuite">
+<test name="NewTest">
+<classes>
+<class name="TestNG.verifyEdurekaPage"/>
+</classes>
+</test>
+</suite>
